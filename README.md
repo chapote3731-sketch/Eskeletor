@@ -1,2 +1,8 @@
 # Eskeletor
 peliculas y series
+git init
+git add .
+git commit -m "Launch page"
+git branch -M main
+git remote add origin https://github.com/TU-USUARIO/streaming-app.git
+git push -u origin main
